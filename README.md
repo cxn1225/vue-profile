@@ -1,5 +1,5 @@
 # vue-profiles
-
+#查看简历系统
 ## Project setup
 ```
 npm install
